@@ -1,5 +1,10 @@
+## Quinn's First CS193 Homework
+What I like about CS193
+- Cool TAs
+- CS is fun
+- 193 is a good number
+- Not too hard
 ## Welcome to GitHub Pages
-
 
 ### Markdown
 
