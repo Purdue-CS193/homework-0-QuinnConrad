@@ -3,7 +3,7 @@
 
 ### Markdown
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Imperdiet lectus platea condimentum purus fames convallis pharetra lacinia. Cubilia elementum duis montes aliquet malesuada. Pellentesque scelerisque aliquet cras dignissim non mollis.ventions for
+Lorem ipsum odor amet, consectetuer adipiscing elit. Imperdiet lectus platea condimentum purus fames convallis pharetra lacinia. Cubilia elementum duis montes aliquet malesuada. Pellentesque scelerisque aliquet cras dignissim non mollis.
 
 ```markdown
 Syntax highlighted code block
